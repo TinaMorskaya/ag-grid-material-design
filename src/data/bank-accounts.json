@@ -1,0 +1,42 @@
+[
+    {
+        "account number": 238455489,
+        "account type": "Checking",
+        "currency": "USD",
+        "balance": 1400000,
+        "bank name": "VTB",
+        "bank country": "Russia"
+    },
+    {
+        "account number": 368448537,
+        "account type": "Savings",
+        "currency": "USD",
+        "balance": 906,
+        "bank name": "Tinkoff",
+        "bank country": "Russia"
+    },
+    {
+        "account number": 786436543,
+        "account type": "Checking",
+        "currency": "USD",
+        "balance": 120035,
+        "bank name": "Tinkoff",
+        "bank country": "Russia"
+    },
+    {
+        "account number": 487587378,
+        "account type": "Savings",
+        "currency": "USD",
+        "balance": 5066789,
+        "bank name": "Sber",
+        "bank country": "USA"
+    },
+    {
+        "account number": 675346578,
+        "account type": "Checking",
+        "currency": "USD",
+        "balance": 5888,
+        "bank name": "Sber",
+        "bank country": "USA"
+    }
+]
