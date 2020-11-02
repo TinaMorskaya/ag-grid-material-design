@@ -1,18 +1,6 @@
 @import 'ag-grid-community/dist/styles/ag-grid.css';
 @import 'ag-grid-community/dist/styles/ag-theme-material.css';
 
-.ag-theme-material .ag-header {
+/* .ag-theme-material .ag-header {
   font-style: italic;
-}
-
-
-.example-wrapper {
-  display: flex;
-  flex-direction: column;
-  height: 100%;
-}
-
-#myGrid {
-  flex: 1 1 0px;
-  width: 100%;
-}
+} */
