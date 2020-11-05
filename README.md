@@ -1,5 +1,7 @@
 # Ag-Grid & Redux implementation
 
+![Preview of app](preview.jpg)
+
 ## Description
 
 This app was designed using [ag-grid](https://www.ag-grid.com/) and [Material UI's](https://material-ui.com/) makeStyles APIs.
