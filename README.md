@@ -1,6 +1,6 @@
 # Ag-Grid & Redux implementation
 
-![Preview of app](preview.jpg)
+![Preview of app](./preview.png)
 
 ## Description
 
